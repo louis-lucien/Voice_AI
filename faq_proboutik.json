@@ -1,0 +1,94 @@
+[
+    {
+        "question": "Qu'est-ce que ProBoutik ?",
+        "answer": "ProBoutik App est une application mobile révolutionnaire conçue pour les micro-marchands et les retailers en Afrique francophone. Elle offre une solution complète pour la digitalisation des transactions, la gestion de la trésorerie, l'envoi de rappels de paiement et bien plus encore. Lʼapplication enregistre toutes vos transactions à paiement différé, garantissant une traçabilité transparente et une meilleure gestion de vos opérations commerciales. De plus, ProBoutik App propose un financement basé sur les crédits octroyés à vos clients sous forme de micro-affacturage, vous permettant ainsi de reconstituer votre trésorerie et de poursuivre votre croissance en évitant les tensions financières. Les rappels de paiements automatiques simplifient le recouvrement en envoyant à vos clients, via un lien de paiement, des notifications fluides et transparentes. ProBoutik App sʼadresse à une variété de secteurs – de la vente au détail à lʼalimentation en passant par les services – afin de faciliter votre gestion commerciale au bout de vos doigts."
+    },
+    {
+        "question": "À qui sʼadresse ProBoutik ?",
+        "answer": "Lʼapplication est destinée aux commerçants et micro-entrepreneurs souhaitant moderniser leur gestion financière, ainsi quʼaux fournisseurs et partenaires financiers désireux d'améliorer la transparence de leurs transactions. 2. Inscription et gestion de compte"
+    },
+    {
+        "question": "Comment créer un compte ?",
+        "answer": "Téléchargez lʼapplication depuis le Play Store ou lʼApp Store. Suivez le processus dʼenrôlement en vous inscrivant avec votre numéro de téléphone (vérification par SMS obligatoire). FAQs ProBoutik 1 En cas de difficultés (par exemple, si vous ne savez pas lire ou écrire), un agent de terrain peut vous assister."
+    },
+    {
+        "question": "Puis-je utiliser ProBoutik sans adresse e-mail ?",
+        "answer": "Oui, lʼadresse e-mail nʼest pas obligatoire."
+    },
+    {
+        "question": "Puis-je connecter plusieurs appareils à mon compte ?",
+        "answer": "Oui, mais chaque nouvel appareil doit être validé via un code SMS pour garantir la sécurité du compte."
+    },
+    {
+        "question": "Comment modifier mes informations personnelles ?",
+        "answer": "Accédez à la section « Profil » dans lʼapplication pour mettre à jour vos données. 3. Gestion des ventes et facturation"
+    },
+    {
+        "question": "Comment enregistrer une vente ?",
+        "answer": "Utilisez lʼoption dédiée dans lʼapplication pour enregistrer vos ventes. Vous pouvez enregistrer des ventes au comptant ou à crédit. Pour les ventes à crédit, il est possible de saisir une estimation de prix si le montant exact nʼest pas connu."
+    },
+    {
+        "question": "Puis-je joindre une photo des articles vendus sur une facture ?",
+        "answer": "Oui, vous pouvez télécharger une photo lors de lʼenregistrement de la vente. Cependant, la facture PDF générée nʼinclura pas cette photo."
+    },
+    {
+        "question": "Puis-je modifier une facture après son envoi ?",
+        "answer": "Non, il est nécessaire d'annuler lʼopération puis dʼenregistrer une nouvelle transaction en cas dʼerreur."
+    },
+    {
+        "question": "Comment suivre mes factures impayées ?",
+        "answer": "Utilisez le module « Transactions » pour consulter lʼhistorique et générer des rapports sur les créances impayées par client. 4. Financement et crédits"
+    },
+    {
+        "question": "Comment ProBoutik facilite-t-il l'accès au financement ?",
+        "answer": "Lʼapplication analyse votre historique de ventes et de créances pour calculer un score de solvabilité sur 1000. FAQs ProBoutik 2 Ce score est utilisé par nos partenaires bancaires et microfinances pour évaluer votre éligibilité à des financements."
+    },
+    {
+        "question": "Quels documents dois-je fournir pour une demande de crédit ?",
+        "answer": "En général, une pièce dʼidentité valide et lʼhistorique financier généré par ProBoutik suffisent. Les taux d'intérêt et modalités de remboursement, comment sont-ils définis"
+    },
+    {
+        "question": "?",
+        "answer": "ProBoutik ne finance pas directement les crédits. La plateforme met en relation les commerçants avec des partenaires financiers dont les taux varient (généralement entre 10 et 24 % par an) en fonction du montant et de la durée du crédit. Les modalités (nombre dʼéchéances, délais, etc.) sont définies par lʼétablissement financier partenaire. 5. Paiements et transactions"
+    },
+    {
+        "question": "Quels moyens de paiement sont acceptés ?",
+        "answer": "Lʼapplication enregistre les transactions via les paiements mobiles (mobile money). La compatibilité avec dʼautres moyens (carte bancaire, virement) est en cours de développement via la solution complémentaire, ProCash."
+    },
+    {
+        "question": "Puis-je recevoir des paiements directement via lʼapplication ?",
+        "answer": "Actuellement, la réception directe des paiements sur mobile money est possible, mais lʼintégration dʼautres systèmes de paiement reste à venir."
+    },
+    {
+        "question": "Puis-je annuler une transaction après son envoi ?",
+        "answer": "Cela dépend du statut de la transaction. En cas de doute, contactez le support client pour vérifier la possibilité dʼannulation ou de correction. 6. Problèmes techniques et assistance"
+    },
+    {
+        "question": "Que faire si lʼapplication ne se charge pas correctement ?",
+        "answer": "Vérifiez votre connexion Internet et lʼespace de stockage disponible. Redémarrez lʼapplication ou votre téléphone si nécessaire."
+    },
+    {
+        "question": "Comment signaler un bug ou obtenir de lʼaide ?",
+        "answer": "FAQs ProBoutik 3 Contactez notre support client via lʼonglet « Réglages » dans lʼapplication ou par WhatsApp/téléphone."
+    },
+    {
+        "question": "Lʼapplication fonctionne-t-elle sur tous les modèles de téléphone ?",
+        "answer": "ProBoutik est compatible avec la plupart des smartphones, bien que certains anciens modèles puissent rencontrer des limitations sur certaines fonctionnalités. 7. Formation et support utilisateur"
+    },
+    {
+        "question": "Existe-t-il des tutoriels pour utiliser lʼapplication ?",
+        "answer": "Oui, des vidéos tutoriels et des formations en ligne sont disponibles dans la section « Réglages  Suivre nos Tutoriels »."
+    },
+    {
+        "question": "Puis-je suggérer des améliorations ?",
+        "answer": "Absolument, vos retours sont précieux. Vous pouvez contacter notre service client ou nous envoyer vos suggestions via lʼapplication. 8. Prochaines évolutions et fonctionnalités à venir"
+    },
+    {
+        "question": "Quelles fonctionnalités sont prévues pour 2025 ?",
+        "answer": "Intégration de commandes vocales pour faciliter lʼenregistrement des opérations. Possibilité dʼajouter des remises directement dans les factures avant leur envoi. Développement dʼune fonctionnalité e-commerce pour ajouter et gérer vos produits en ligne. Amélioration des systèmes de paiement, notamment par lʼintégration avec ProCash pour une gestion multidevises."
+    },
+    {
+        "question": "Comment rester informé des mises à jour ?",
+        "answer": "Consultez régulièrement la section « Réglages » et activez les notifications pour être informé des nouvelles fonctionnalités et mises à jour. English ProBoutik Faqs FAQs ProBoutik 4"
+    }
+]
